@@ -1,0 +1,37 @@
+h1 {
+	color: black;
+	background-color:coral;
+	width: 300px;
+	border-radius: 10px;
+}
+.Birds {
+	width: 300px;
+}
+/* Navigation*/
+nav ul li {
+	display: inline-block;
+	position: relative;
+}
+nav ul li a {
+	display: block;
+	padding: 15px;
+	font-size: 21px;
+	text-decoration: #;
+}
+.container {
+	background-color: coral;
+    border-radius: 10px;
+}
+/* ./Navigation*/
+.breeds {
+	font-size: 20px;
+}
+.columns {
+	width: 200px;
+}
+#dentures {
+	margin-top: 40px;
+}
+.budgieimage {
+	margin-top: 20px;
+}
